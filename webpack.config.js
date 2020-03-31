@@ -18,7 +18,7 @@ module.exports = {
         "filename": "[name].bundle.js",
         "chunkFilename": "[id].chunk.js",
         "crossOriginLoading": false,
-        "library": "ngTailor",
+        "library": "ngBuilders",
         "libraryTarget": "umd",
         "umdNamedDefine": true
     }
